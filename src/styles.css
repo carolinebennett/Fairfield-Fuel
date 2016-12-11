@@ -7,6 +7,10 @@
 h1 {
     color:darkred;
 }
+#intro img{
+  height: 200px;
+  width: 200px;
+}
 .btn-primary {
     background-color: #C6102E; /* bright cherry red */
     border-color: #A50D27; /* a darker shade of the same red */
@@ -52,6 +56,7 @@ body { padding-top: 50px; }
 .featured-events-bottom h3 {
   font-size:20px;
 }
+
 /*---- Panel/Menu Styling ----*/
 .panel-primary {
   border-color: #cccccc;
@@ -68,9 +73,14 @@ nav li {
 .thumbnail img {
   width:100%;
 }
+#explain {
+  min-height: 6em;
+}
 #investors .thumbnail p {
   min-height: 6em;
 }
+
+
 .thumbnail h3 {
   font-size: 1.1em;
 }
