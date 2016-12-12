@@ -10,7 +10,9 @@ h1 {
 #intro img{
   height: 200px;
   width: 200px;
+  float: left;
 }
+
 .btn-primary {
     background-color: #C6102E; /* bright cherry red */
     border-color: #A50D27; /* a darker shade of the same red */
