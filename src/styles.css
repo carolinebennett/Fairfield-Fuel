@@ -7,10 +7,13 @@
 h1 {
     color:darkred;
 }
-#intro img{
-  height: 200px;
-  width: 200px;
-  float: left;
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 75px;
+  padding: 0px;
+  width: 75px;
 }
 
 .btn-primary {
@@ -26,6 +29,9 @@ h1 {
 /*---- Navbar Styling ----*/
 body { padding-top: 50px; }
 .navbar-brand { padding: 6px 15px;}
+.container-fluid {
+  height: 90px;
+}
 /*---- Feature-Panel Styling ----*/
 .feature-panel h1, .feature-panel h2, .feature-panel h3 {
   margin:0 0 4px;
