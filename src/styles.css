@@ -27,7 +27,7 @@ h1 {
   background-color: hsl(350,85%,30%);
 }
 /*---- Navbar Styling ----*/
-body { padding-top: 50px; }
+body { padding-top: 0px; }
 .navbar-brand { padding: 6px 15px;}
 .container-fluid {
   height: 90px;
