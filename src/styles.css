@@ -92,7 +92,9 @@ nav li {
 #investors .thumbnail p {
   min-height: 6em;
 }
-
+#investors {
+  
+}
 
 .thumbnail h3 {
   font-size: 1.1em;
