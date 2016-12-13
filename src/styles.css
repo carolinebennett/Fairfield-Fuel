@@ -35,6 +35,8 @@ body { padding-top: 0px; }
 .nav navbar-nav {
   padding: 0 0 10px 0;
 }
+/*---- Emoji Tricks ----*/
+
 /*---- Feature-Panel Styling ----*/
 .feature-panel h1, .feature-panel h2, .feature-panel h3 {
   margin:0 0 4px;
