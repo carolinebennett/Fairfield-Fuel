@@ -32,6 +32,9 @@ body { padding-top: 50px; }
 .container-fluid {
   height: 90px;
 }
+.nav navbar-nav {
+  padding: 0 0 10px 0;
+}
 /*---- Feature-Panel Styling ----*/
 .feature-panel h1, .feature-panel h2, .feature-panel h3 {
   margin:0 0 4px;
